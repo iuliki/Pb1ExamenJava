@@ -1,5 +1,5 @@
 
-public abstract class AltExemplu {
+public class AltExemplu {
 
 	public AltExemplu() {
 		super();
